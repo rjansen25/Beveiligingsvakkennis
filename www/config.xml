@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "nl.mediavision.beveiligingsvakkennis"
-        version   = "1.0.1">
+        version   = "1.0.2">
 
     <name>Beveiligingsvakkennis</name>
 
@@ -53,7 +53,7 @@
     -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="sobb164.png" />
+    <icon src="sobb164a.png" />
 
     <!-- Define app splash screen for each platform. -->
 
