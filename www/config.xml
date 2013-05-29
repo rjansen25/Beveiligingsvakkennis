@@ -56,7 +56,7 @@
     <icon src="sobb164a.png" />
 
     <!-- Define app splash screen for each platform. -->
-<gap:splash src="splash.png" width="576" height="432" />
+<gap:splash src="splash.9.png" />
     <!--
         Define access to external domains.
 
