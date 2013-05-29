@@ -56,7 +56,11 @@
     <icon src="sobb164a.png" />
 
     <!-- Define app splash screen for each platform. -->
-<gap:splash src="splash.9.png" />
+<gap:splash src="splash.9.png" gap:platform="android" gap:density="ldpi" />
+<gap:splash src="splash.9.png" gap:platform="android" gap:density="mdpi" />
+<gap:splash src="splash.9.png" gap:platform="android" gap:density="hdpi" />
+<gap:splash src="splash.9.png" gap:platform="android" gap:density="xhdpi" />
+
     <!--
         Define access to external domains.
 
