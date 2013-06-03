@@ -3,16 +3,16 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "nl.mediavision.beveiligingsvakkennis"
-        version   = "1.0.5">
+        id        = "nl.mediavision.vlearning"
+        version   = "1.2.0">
 
-    <name>Beveiligingsvakkennis</name>
+    <name>V-Learning</name>
 
     <description>
-        beveiligingsvakkennis voor de SOBB
+       V-Learning, beveiligingsvakkennis voor de SOBB
     </description>
 
-    <author href="http://www.mediavision-ecabo.nl" email="r.jansen@ecabo.nl">
+    <author href="http://www.mediavision.nl" email="r.jansen@ecabo.nl">
         MV team
     </author>
 
@@ -53,7 +53,7 @@
     -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="sobb164a.png" />
+    <icon src="vteken.png" />
 
     <!-- Define app splash screen for each platform. -->
 <gap:splash src="splash.9.png" gap:platform="android" gap:density="ldpi" />
