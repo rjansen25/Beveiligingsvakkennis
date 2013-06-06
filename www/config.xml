@@ -56,7 +56,7 @@
     <icon src="vteken.png" />
 
     <!-- Define app splash screen for each platform. -->
-<gap:splash src="splash.png" />
+
 <gap:splash src="res/screen/splash_ldpi.png" gap:platform="android" gap:density="ldpi" />
 <gap:splash src="res/screen/splash_mdpi.png" gap:platform="android" gap:density="mdpi" />
 <gap:splash src="res/screen/splash_hdpi.png" gap:platform="android" gap:density="hdpi" />
